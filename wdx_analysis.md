@@ -19,7 +19,7 @@ Specifically, we can see the correlations between income levels and literacy rat
 ![PLot 3](https://raw.githubusercontent.com/cbarnes5/world_development_explorer/main/Charts/Plot%203.png)
 **Plot 3**
 
-In order to answer the question of whether girl’s education and literacy rates effect a nations economy, we can analyze the GDP Per Capita indicator. As shown in Plot 4 from a variety of countries grouped by income level, all countries on the plot with a high GDP have close to 100% literacy rate. We can also look at Mali’s GDP and women’s literacy data over time and determine that as the countries literacy rate among 15-25 year old women increase, as does it’s GDP (Plots 5 & 6). Likely because there are more workers able to do jobs that require an education. 
+In order to answer the question of whether girl’s education and literacy rates effect a nations economy, we can analyze the GDP Per Capita indicator. As shown in Plot 4 from a variety of countries grouped by income level, all countries on the plot with a GDP approaching 20% or higher have close to a 100% literacy rate among females aged 15-24. We can also look at Mali’s GDP and women’s literacy data over time and determine that as the countries literacy rate among 15-24 year old women increase, as does it’s GDP (Plots 5 & 6). Likely because there are more workers able to do jobs that require an education.
 
 ![PLot 4](https://raw.githubusercontent.com/cbarnes5/world_development_explorer/main/Charts/Plot%204.png)
 **Plot 4**
@@ -30,7 +30,7 @@ In order to answer the question of whether girl’s education and literacy rates
 ![PLot 6](https://raw.githubusercontent.com/cbarnes5/world_development_explorer/main/Charts/Plot%206.png)
 **Plot 6**
 
-Not only does women’s literacy correlate with GDP, but it also affects women’s own life expectancy, and the health of their families. As the following plots show, Chile, a country with higher literacy rates as shown above, has a larger percentage of their female population over 80 years old, and has a smaller percentage of still birth per 1,000 births when compared to Mali in 2010. 
+Not only does women’s literacy correlate with GDP, but it also affects women’s own life expectancy, and the health of their families. As the following plots show, Chile, a country with higher literacy rates as shown above, has a larger percentage of their female population over 80 years old, and has a smaller percentage of still birth per 1,000 births when compared to Mali in 2010. A potential explanation could be that if women are educated, they are afforded more job opportunities and can therefore better access health care (including prenatal care). Better access to health care correlates to longer life expectancy and less stillbirths.
 
 ![PLot 7](https://raw.githubusercontent.com/cbarnes5/world_development_explorer/main/Charts/Plot%207.png)
 **Plot 7**
