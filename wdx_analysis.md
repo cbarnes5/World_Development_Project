@@ -38,7 +38,4 @@ Not only does women’s literacy correlate with GDP, but it also affects women�
 ![PLot 8](https://raw.githubusercontent.com/cbarnes5/world_development_explorer/main/Charts/Plot%208.png)
 **Plot 8**
 
-![PLot 9](https://raw.githubusercontent.com/cbarnes5/world_development_explorer/main/Charts/Plot%209.png)
-**Plot 9**
-
 In conclusion, from analyzing many indicators from the The World Bank’s dataset using the The World Development Explorer Tool, one can conclude from Mali’s and Chiles data that there is a correlation between women’s literacy, girl’s enrollment in primary education, income level of a country, GDP, women’s health and maternal health (specifically measured by life expectancy and still birth likelihood). Revealing all the benefits of women’s education and researching the aspects that contribute to low education and literacy levels through data can bring us closer towards The World Bank’s Mission of ending extreme poverty and promoting shared prosperity.  
