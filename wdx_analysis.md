@@ -4,7 +4,7 @@ Girl’s education affects many aspects of a nation as a whole. An increase in g
 
 To answer these questions, we will use data provided by The World Bank and charts published on the World Development Explorer website, which utilized The World Bank’s data. The World Bank consists of five institutions from both the public and private sector: The International Bank for Reconstruction and Development (IBRD), The International Development Association (IDA), The International Finance Corporation (IFC), The Multilateral Investment Guarantee Agency (MIGA), and The International Centre for Settlement of Investment Disputes (ICSID). Together their mission is to end extreme poverty and promote shared prosperity. The World Bank produces World Development Indicators (WDI), a cross-country comparable data set on development (reference). WDI’s range from indicators on people, the environment and the economy, there are more than 1400 socioeconomic indicators of 200 plus countries over 50 plus year (WDE).
 
-First, looking at school enrollment (% female, net) vs. literacy rate (% of female age 15-24) we can determine where countries are in terms in girl’s education. From the following graph, one can determine how countries performed in terms of girls education in 2010.
+First, looking at school enrollment (% female, net) vs. literacy rate (% female age 15-24) we can determine where countries are in terms in girl’s education. From the following graph, one can determine how countries performed in terms of girls education in 2010.
 
 ![Plot 1](https://raw.githubusercontent.com/cbarnes5/world_development_explorer/main/Charts/Plot%201.png)
 **Plot 1**
