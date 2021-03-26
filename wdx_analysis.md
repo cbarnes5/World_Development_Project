@@ -11,12 +11,12 @@ First, looking at school enrollment (% female, net) vs. literacy rate (% female 
 ![Plot 1](https://raw.githubusercontent.com/cbarnes5/world_development_explorer/main/Charts/Plot%201.png)
 **Plot 1**
 
-Grouping all the countries by income level can provide insight on how income could be related to women’s education. Note the three countries with the worst literacy rates among females age 15-25 are all low income. An explanation for the correlation could be that women in low income countries are required to work to support their family and therefore cannot attend school. 
+Grouping all the countries by income level can provide insight on how income could be related to women’s education. Note the three countries with the worst literacy rates among females age 15-24 are all low income. An explanation for the correlation could be that women in low income countries are required to work to support their family and therefore cannot attend school. 
 
 ![PLot 2](https://raw.githubusercontent.com/cbarnes5/world_development_explorer/main/Charts/Plot%202.png)
 **Plot 2**
 
-Specifically, we can see the correlations between income levels and literacy rates when directly comparing Mali and Chili. Mali is classified as a low income country and Chili is classified as a High Income country. As the Plot 3 indicates, Chilies literacy rates among women aged 15-25 is higher than Mali’s by roughly 65%. 
+Specifically, we can see the correlations between income levels and literacy rates when directly comparing Mali and Chili. Mali is classified as a low income country and Chili is classified as a High Income country. As the Plot 3 indicates, Chilies literacy rates among women aged 15-24 is higher than Mali’s by roughly 65%. 
 
 ![PLot 3](https://raw.githubusercontent.com/cbarnes5/world_development_explorer/main/Charts/Plot%203.png)
 **Plot 3**
