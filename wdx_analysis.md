@@ -6,7 +6,7 @@ To answer these questions, we will use data provided by The World Bank and chart
 
 First, looking at school enrollment (% female, net) vs. literacy rate (% of female age 15-25) we can determine where countries are in terms in girl’s education. From the following graph, one can determine how countries performed in terms of girls education in 2010.
 
-![Plot 1](C:\Users\cbarnes\Pictures\project\Plot 1.png)
+![Plot 1](C:\Users\cbarnes\Pictures\project\Plot1.png)
 
 Grouping all the countries by income level can provide insight on how income could be related to women’s education. Note the three countries with the worst literacy rates among females age 15-25 are all low income. An explanation for the correlation could be that women in low income countries are required to work to support their family and therefore cannot attend school. 
 
