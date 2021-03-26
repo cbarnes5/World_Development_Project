@@ -1,1 +1,1 @@
-#Folder for blog charts
+# Folder for blog charts
