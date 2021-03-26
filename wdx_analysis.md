@@ -14,7 +14,7 @@ Grouping all the countries by income level can provide insight on how income cou
 ![PLot 2](https://raw.githubusercontent.com/cbarnes5/world_development_explorer/main/Charts/Plot%202.png)
 **Plot 2**
 
-Specifically, we can see the correlations between income levels and literacy rates when directly comparing Mali and Chili. Mali is classified as a low income country and Chili is classified as a High Income country. As the Plot 2 indicates, Chilies literacy rates among women aged 15-25 is higher than Mali’s. 
+Specifically, we can see the correlations between income levels and literacy rates when directly comparing Mali and Chili. Mali is classified as a low income country and Chili is classified as a High Income country. As the Plot 2 indicates, Chilies literacy rates among women aged 15-25 is higher than Mali’s by roughly 65%. 
 
 ![PLot 3](https://raw.githubusercontent.com/cbarnes5/world_development_explorer/main/Charts/Plot%203.png)
 **Plot 3**
