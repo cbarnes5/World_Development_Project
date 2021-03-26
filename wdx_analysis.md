@@ -14,12 +14,12 @@ Grouping all the countries by income level can provide insight on how income cou
 ![PLot 2](https://raw.githubusercontent.com/cbarnes5/world_development_explorer/main/Charts/Plot%202.png)
 **Plot 2**
 
-Specifically, we can see the correlations between income levels and literacy rates when directly comparing Mali and Chili. Mali is classified as a low income country and Chili is classified as a High Income country. As the Plot 2 indicates, Chilies literacy rates among women aged 15-25 is higher than Mali’s by roughly 65%. 
+Specifically, we can see the correlations between income levels and literacy rates when directly comparing Mali and Chili. Mali is classified as a low income country and Chili is classified as a High Income country. As the Plot 3 indicates, Chilies literacy rates among women aged 15-25 is higher than Mali’s by roughly 65%. 
 
 ![PLot 3](https://raw.githubusercontent.com/cbarnes5/world_development_explorer/main/Charts/Plot%203.png)
 **Plot 3**
 
-In order to answer the question of whether girl’s education and literacy rates effect a nations economy, we can analyze the GDP Per Capita indicator. As shown in Plot 3 from a variety of countries grouped by income level, all countries on the plot with a high GDP have close to 100% literacy rate. We can also look at Mali’s GDP and women’s literacy data over time and determine that as the countries literacy rate among 15-25 year old women increase, as does it’s GDP (Plots 5 & 6). Likely because there are more workers able to do jobs that require an education. 
+In order to answer the question of whether girl’s education and literacy rates effect a nations economy, we can analyze the GDP Per Capita indicator. As shown in Plot 4 from a variety of countries grouped by income level, all countries on the plot with a high GDP have close to 100% literacy rate. We can also look at Mali’s GDP and women’s literacy data over time and determine that as the countries literacy rate among 15-25 year old women increase, as does it’s GDP (Plots 5 & 6). Likely because there are more workers able to do jobs that require an education. 
 
 ![PLot 4](https://raw.githubusercontent.com/cbarnes5/world_development_explorer/main/Charts/Plot%204.png)
 **Plot 4**
